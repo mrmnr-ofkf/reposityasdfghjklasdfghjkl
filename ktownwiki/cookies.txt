@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	09-Aug-2025
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access-Global	09-Aug-2025
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-DP	95c
+.wikipedia.org	TRUE	/	FALSE	1999999999	GeoIP	AU:WA:Perth:-31.95:115.86:v4
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+en.m.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	09-Aug-2025
+en.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-DP	95c
+en.wikipedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+.wikipedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	WlSjHLJNQpTQ4xOAoiQZ4wJKAAEBAFvdwczV7NuQiEb_QMJkppzs_R0AwOJJdqSC
+en.wikipedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+meta.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	09-Aug-2025
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	AU:WA:Perth:-31.95:115.86:v4
+meta.wikimedia.org	TRUE	/	FALSE	1999999999	NetworkProbeLimit	0.001
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	WE7hPIlVXmsk2rspExO0zgJKAAAAAFvdwIa84mWPPHjlywQd1M5upgWrHVn0pbBD
+upload.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+meta.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Uniq	upKA-WuZxG7i45ojg4g9rwJKAAEBAFvd5zcBgcR2HbI37kgUBavj8XRZTWldOe-R
+meta.wikimedia.org	TRUE	/	FALSE	1999999999	SameSite	None
+
